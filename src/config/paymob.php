@@ -21,13 +21,11 @@ return [
     | PayMob username and password
     |--------------------------------------------------------------------------
     |
-    | This is your PayMob username and password to make auth request.
+    | This is your PayMob auth-token to make auth request.
     |
     */
     
     'api_key' => '',
-    'username' => '',
-    'password' => '',
 
     /*
     |--------------------------------------------------------------------------
