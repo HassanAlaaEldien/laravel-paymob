@@ -24,7 +24,8 @@ return [
     | This is your PayMob username and password to make auth request.
     |
     */
-
+    
+    'api_key' => '',
     'username' => '',
     'password' => '',
 
